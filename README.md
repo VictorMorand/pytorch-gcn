@@ -1,13 +1,10 @@
-# Pytoch GCN
-
-Reimplementing GCNs in pytorch
+# Pytorch GCN
+Graphical models MVA project: Reimplementing GCNs in pytorch
 
 We compared ou raw pytorch implementation with existing ones from torch geometric.
-
 ![Comparison.png](./Comparison.png)
 
 # Dataset
-
 We used the QM9 dataset from torch geometric. 
 
 # References
